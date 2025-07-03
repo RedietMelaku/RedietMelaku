@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Melak Sisay
+# Hi there! 👋 I'm Rediet Melaku
 
 ## 👨‍💻 About Me
 I'm a **Full Stack Developer** with a strong passion for building efficient and scalable web applications. I specialize in creating dynamic and interactive user interfaces and developing robust backend systems. My tech stack includes **React, Node.js, TypeScript, PostgreSQL**, and **Tailwind CSS**, among others. 
